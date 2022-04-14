@@ -44,6 +44,7 @@ const Home =()=>{
             <div className="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 			<div className="hero_slide_content text-center">
                     <h1  className="animate__animated "  > Get yourrrrr <span>Education</span> today! </h1> 
+					
                 </div>
             </div>
         </div>
@@ -55,7 +56,8 @@ const Home =()=>{
             <div className="hero_slide_background" style={{backgroundImage: 'url(' + require('./images/news_background.jpg') + ')'}}></div>
             <div className="hero_slide_container d-flex flex-column align-items-center justify-content-center">
                 <div className="hero_slide_content text-center">
-				<h1  className="animate__animated "   > Get yourrrrr <span>Education</span> today! </h1> 
+				<h1  className="animate__animated "   > Get yourrrrr <span>Education</span> today! </h1>
+				
                 </div>
             </div>
         </div>
@@ -68,6 +70,7 @@ const Home =()=>{
             <div className="hero_slide_container d-flex flex-column align-items-center justify-content-center">
                 <div className="hero_slide_content text-center">
 				<h1  class="animate__animated "  > Get yourrrrr <span>Education</span> today! </h1> 
+				
                 </div>
             </div>
         </div>
