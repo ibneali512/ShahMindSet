@@ -8,7 +8,7 @@ import ScrollToTop from "./ScrollToTop";
 
 ReactDOM.render(
   <React.StrictMode>
-   <BrowserRouter baseUrl="https://ibneali512.github.io/ShahMindSet">
+   <BrowserRouter >
    <ScrollToTop>
    <App/>
    </ScrollToTop>
