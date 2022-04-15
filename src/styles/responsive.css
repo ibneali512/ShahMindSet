@@ -452,6 +452,12 @@
 
 @media only screen and (max-width: 479px)
 {
+	.hero_slide_container
+{
+	width: 100%;
+	height: 69vh;
+}
+
 	.header
 	{
 		height: 60px;
