@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ShahMindSet/static/css/main.692526c0.css",
-    "main.js": "/ShahMindSet/static/js/main.7e6e2222.js",
+    "main.js": "/ShahMindSet/static/js/main.2fa3368b.js",
     "static/js/787.deefae84.chunk.js": "/ShahMindSet/static/js/787.deefae84.chunk.js",
     "static/media/fa-brands-400.svg": "/ShahMindSet/static/media/fa-brands-400.3bfaa02b5623d66a3025.svg",
     "static/media/slider_background.jpg": "/ShahMindSet/static/media/slider_background.10f128377dc4cff30c98.jpg",
@@ -50,11 +50,11 @@
     "static/media/placeholder.svg": "/ShahMindSet/static/media/placeholder.a89cd0287ffb3d73d30238c5a80ab099.svg",
     "static/media/smartphone.svg": "/ShahMindSet/static/media/smartphone.faa72e250ca34f7e82dd88ba5c405298.svg",
     "main.692526c0.css.map": "/ShahMindSet/static/css/main.692526c0.css.map",
-    "main.7e6e2222.js.map": "/ShahMindSet/static/js/main.7e6e2222.js.map",
+    "main.2fa3368b.js.map": "/ShahMindSet/static/js/main.2fa3368b.js.map",
     "787.deefae84.chunk.js.map": "/ShahMindSet/static/js/787.deefae84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.692526c0.css",
-    "static/js/main.7e6e2222.js"
+    "static/js/main.2fa3368b.js"
   ]
 }
